@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[![Video Walkthrough](https://www.loom.com/share/132caf7048a847aabd8eb167065ec36a)](https://www.loom.com/share/132caf7048a847aabd8eb167065ec36a)
+![Video Walkthrough](assets/web102_prework.gif)
 
 The walkthrough demonstrates the fully functional Sea Monster Crowdfunding page, including:
 - The **Stats section** displaying total individual contributions (19,187), total dollars raised ($800,268), total number of games (11), and the top two most funded games (Zoo Tycoon: The Board Game 🥇 and How to Read Minds 2 Kit 🥈)
@@ -31,7 +31,7 @@ The walkthrough demonstrates the fully functional Sea Monster Crowdfunding page,
 - The **Our Games section** showing all 11 game cards with images, names, descriptions, and backer counts
 - The **filter buttons** in action — switching between all games, funded-only games (4), and unfunded-only games (7)
 
-Video created with [Loom](https://www.loom.com)
+Video created with [Loom](https://gifcap.dev/)
 
 ## Notes
 
