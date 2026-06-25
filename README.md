@@ -31,7 +31,7 @@ The walkthrough demonstrates the fully functional Sea Monster Crowdfunding page,
 - The **Our Games section** showing all 11 game cards with images, names, descriptions, and backer counts
 - The **filter buttons** in action — switching between all games, funded-only games (4), and unfunded-only games (7)
 
-Video created with [Loom](https://gifcap.dev/)
+Video created with [Loom](https://www.loom.com/)
 
 ## Notes
 
